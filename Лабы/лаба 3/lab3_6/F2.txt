@@ -1,0 +1,4 @@
+Stroka three
+Stroka four
+Stroka five
+Stroka six
